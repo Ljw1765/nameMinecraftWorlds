@@ -4,7 +4,7 @@ World directories parocessed by this script will be renamed as "[levelname.txt c
 
 # How to use
 
-Place script directly in the a directory containing Minecraft Bedrock worlds. This is usually the minecraftWorlds directory.
+Place script directly in a directory containing Minecraft Bedrock worlds. This is usually the minecraftWorlds directory.
 
 If on Linux, execute script with **./nameMinecraftWorlds.sh**
 
